@@ -10,7 +10,7 @@ Your page will likely get messed up at some point. Here are some strategies that
 + **Perform Debugging**. You can use debugging strategies (for [HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Debugging_CSS) to solve issues. Steps typically include: 1) Proofread your code (especially punctuation!). 2) Use an HTML or CSS validator. 3) Isolate the problem code. 4) Compare to working versions. 5) Ask someone (including a forum or AI).
 
 ## In /index.html 
-+ The page needs a real [page title](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title). Think of one and change the page title from eg_broken to that. Note: this is ***not*** the file name!
+~~+ The page needs a real [page title](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title). Think of one and change the page title from eg_broken to that. Note: this is ***not*** the file name!~~
 
 + Another stylesheet needs to be linked to the index.html page. In the head section (the area between the opening <head> and closing </head> tags), add a link to the style.css stylesheet. You will use the [<link> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link) and set the [href attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#href) to point to the style.css file that's located inside the /css folder. You can build your link just like the one that's already in the <head> section, pointing to the CSS reset styles (in the modern-normalize.css file).
 
