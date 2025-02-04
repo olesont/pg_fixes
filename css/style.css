@@ -30,7 +30,7 @@ footer {
 /*-- Main Menu Styles--*/
 nav ul {
   list-style: none;
-  padding: 1em;
+  padding: 24px 12px;
 }
 nav a:link, nav a:visited {
   color: #D0D0D0;
