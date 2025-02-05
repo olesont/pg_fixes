@@ -19,6 +19,10 @@ body {
 p {
   margin-bottom: .67em;
 }
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+}
 nav, footer {
   background-color: #444;
 }
