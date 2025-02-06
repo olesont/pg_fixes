@@ -23,9 +23,9 @@ Your page will likely get messed up at some point. Here are some strategies that
 
 ~~+ There's a weird bit of extra space above the nav, preventing the nav from being flush with the top of the browser window. Find out where that space is coming from and get rid of it. (Hint: use the browser's inspector and the layout panel to view box model of each element, starting at the top and moving down).~~
 
-+ Use left and right [margin: auto](https://developer.mozilla.org/en-US/docs/Web/CSS/margin#more_examples) to center both the [header element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header) and [article elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) horizontally on the page.
+~~+ Use left and right [margin: auto](https://developer.mozilla.org/en-US/docs/Web/CSS/margin#more_examples) to center both the [header element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header) and [article elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) horizontally on the page.~~
 
-+ Horizontally center the header [h1 elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) and use the font and text-transform properties to visually distinguish elements with the .small class from the other h1. Set it to 900-weight, Lato font (with a sans-serif fallback), in all caps. And make it noticeably smaller in size (but not too small).
+~~+ Horizontally center the header [h1 elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) and use the font and text-transform properties to visually distinguish elements with the .small class from the other h1. Set it to 900-weight, Lato font (with a sans-serif fallback), in all caps. And make it noticeably smaller in size (but not too small).~~
  
 + Use the float property to position the article figure on the right-hand side of the text.
 
