@@ -27,10 +27,10 @@ nav ul {
   align-items: flex-start;
 }
 nav, footer {
-  background-color: #444;
+  background-color: #38343084;
 }
 footer {
-  background-color: #444;  /* Dark charcoal */
+  background-color: #38343084;  /* Dark charcoal */
   text-align: center;
   padding: 1.5em 0;
   color: #dfe6e9;  /* Light gray */
@@ -69,14 +69,14 @@ header img {
 }
 header h1 {
   margin: 0 auto;
-  padding: 0 auto;
+  padding-bottom: 1em;
 }
 .small {
   font-family: 'Lato', sans-serif;
   font-weight: 900;
   text-transform: uppercase;
   font-size: 1.2em;
-  margin-top: 1em;
+  margin-top: 0em;
 }
 /*-- Article Styles--*/
 article {
