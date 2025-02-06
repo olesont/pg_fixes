@@ -81,6 +81,8 @@ article {
 article figure {
   width: 39%;
   margin: 0 0 1.25em 1.25em;
+  float: right;
+
 }
 article figcaption {
   font-size: inherit;
