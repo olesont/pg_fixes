@@ -27,9 +27,9 @@ Your page will likely get messed up at some point. Here are some strategies that
 
 ~~+ Horizontally center the header [h1 elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) and use the font and text-transform properties to visually distinguish elements with the .small class from the other h1. Set it to 900-weight, Lato font (with a sans-serif fallback), in all caps. And make it noticeably smaller in size (but not too small).~~
  
-+ Use the float property to position the article figure on the right-hand side of the text.
+~~+ Use the float property to position the article figure on the right-hand side of the text.~~
 
-+ Use the font property to style the figcaption so that the size is smaller and the font is lighter-weight and visually distinct (a different font-family) from the body text. Remember, for any font to load, it has to be one the user has on their computer or it has to be linked in the HTML or loaded from somewhere.
+~~+ Use the font property to style the figcaption so that the size is smaller and the font is lighter-weight and visually distinct (a different font-family) from the body text. Remember, for any font to load, it has to be one the user has on their computer or it has to be linked in the HTML or loaded from somewhere.~~
 
 + Use auto margins, flex display, and justify-content to evenly distribute (space-evenly) the pagination buttons at the bottom of the page. You might also style the border of the buttons to be thicker or thinner, or have another appearance as you wish.
 
