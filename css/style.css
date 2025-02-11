@@ -18,8 +18,8 @@ body {
   background-color: #daccba84;
 }
 p {
-  margin-bottom: .67em;
-  margin:auto;
+  margin-bottom: 12px;
+  line-height: 2;
 }
 nav ul {
   display: flex;
@@ -81,14 +81,14 @@ header h1 {
 /*-- Article Styles--*/
 article {
   width: 768px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.3;
   margin-left: auto;
   margin-right: auto;
   border-radius: 20px;
   box-shadow: 0 -3px 4px rgba(0,0,0,0.1);
   background-color: #e7d8c889;
-  margin-top: 1em;
+  margin-top: 1.5em;
 }
 /* Dropcap Style */
 .dropcap {
